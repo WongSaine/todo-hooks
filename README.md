@@ -1,3 +1,3 @@
-# Todo Timer
+# Todo Hooks
 
-[Ссылка на сайт](https://todo4timer.netlify.app)
+[Ссылка на сайт](https://todo-hooks-k.netlify.app/)
